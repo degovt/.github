@@ -1,7 +1,5 @@
 # Decentralised Government
 
-## Description
-
 An open-source specification for the decentralized government. The decentralized government implements a democratic governance system that is open, anonymous, and private. The decentralized government has its own blockchain network.
 
 ## The Decentralized Government Network
